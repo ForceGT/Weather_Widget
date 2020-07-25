@@ -8,3 +8,7 @@ A weather widget that displays the weather data for the location entered by user
 ## Samples/Screenshots
 
 ![](screenshots/weather_widget.png)
+
+### View Live
+
+[Click Here](http://gtxtreme.me/weather)
